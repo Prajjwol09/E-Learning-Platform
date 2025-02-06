@@ -39,8 +39,6 @@ E-Sikshya is a cutting-edge e-learning platform built with React, TypeScript, an
    npm run dev
    ```
 
-4. Open [http://localhost:5173](http://localhost:5173) in your browser
-
 ## 🛠️ Tech Stack
 
 - **Frontend Framework**: React 18
